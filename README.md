@@ -1,71 +1,35 @@
-## ABOUT ME
 
-name : ```Nayan Developer```</br>
-age : ```20```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
+<h1 align="center">Hi 👋, I'm Sujon Be'vies</h1>
+<h3 align="center">A Bangladeshi Small Cyber Specialist. Ethical hacker. Moreover, I like to suffer online.</h3>
 
-## CREDITS
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SUJON-BEVIES" alt="SujonBevies" /></a> </p>
 
-original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [NAYAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
+- 🌱 I’m currently learning **Nodejs, PHP**
 
-## CONFIG AND CUSTOM
+- 📫 How to reach me **mrsladen2m@gmail.com**
 
-Nayan.js : ``configure auto restart and auto accept pending messages.``</br>
-Nayan.json : ``configure bot name, bot prefix, bot operators and admins, appstate save``</br>
-Nayanstate.json : ``account cache data.``</br>Nayan/configs/Nayan.json : ``Set Your Bot Id Email Password``
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/profile.php?id=61561264605347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SujonBevies" height="30" width="40" /></a>
+<a href="https://instagram.com/sujonbevies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SujonBevjes" height="30" width="40" /></a>
+</p>
 
-## BOX APPROVAL
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-``box approval`` is set as default, you can disable it on ``Nayan.json`` by setting the ``approval`` value into ``false``</br>
+## 📊 Github Stats
 
-you can approve box by using ``approve`` command without using prefix, how to use? just type ``approve (box/remove) (uid/tid)``</br>
+<img align="right" src="https://img.shields.io/github/stars/SUJON-BEVIES?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/SUJON-BEVIES?tab=followers"><img align="right" src="https://img.shields.io/github/followers/SUJON-BEVIES?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/SUJON-BEVIES">  <img align="right" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=SUJON-BEVIES"></a>
 
-EXAMPLES : </br>
+<br><br>
 
-view approved list 
-```txt 
-approve list
-```
-add box from approved list 
-```txt
-approve box 4834812366643016
-```
-remove box from approved list 
-```txt
-approve remove 4834812366643016
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJON-BEVIES&langs_count=8&theme=react&bg_color=151515" />
+</p>
+<p align="center">
+<a href="https://github.com/SUJON-BEVIES"><img alt="SUJON BEVIES's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=SUJON-BEVIES&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUJON-BEVIES&theme=black-ice"
+    alt="SujonBevies"/></p>
 
-## Login System
-
-If you want to login with an email password, go to Nayan/configs/Nayan.json and set your email password ``email``, ``password`` value
-
-If You Use fbstate go to ``Nayanstate.json`` and past fbstate
-
-if you run use ``email`` and ``password``, use Nayan.json(``saveState:false``); otherwise, use Nayan.json(``saveState:true``)
-
-## HOW TO GET 'NayanSTATE.JSON' DATA?
-
-to get ``Nayanstate.json`` data, please follow these steps :</br>
-
-step 1 : download fbstate exporter [here](https://drive.google.com/uc?id=1SFsFP_VhMyPg6JpqJtpqnjAr2kiKD7tl)</br>
-
-step 2 : download ``kiwi browser`` from the play store.</br>
-
-step 3 : open kiwi browser and tap on the three dots at the top right corner.</br>
-
-step 4 : select ``extensions`` from the menu.</br>
-
-step 5 : tap on ``+ from (.zip/ .crx/ .user.js)`` and choose the file "fbstate_exporter-1.0.xpi (1).zip" that you downloaded.</br>
-
-step 6 : once the extension is added, go to ``www.facebook.com`` and log in to the account you want to use as a bot.</br>
-
-step 7 : after logging in, tap on the three dots again and scroll down to find the fbstate exporter.</br>
-
-step 8 : click on it and then click on ``copy fbstate``.</br>
-
-step 9 : paste the copied data into the ``Nayanstate.json`` file.</br>
-
-step 10 : finally, click on ``run`` to initiate the bot.</br>
-
-
+<br/>
