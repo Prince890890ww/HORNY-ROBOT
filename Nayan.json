@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "Horny",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,17 +7,17 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "horny-robot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61564055655700",
+    "61561264605347"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "61564055655700",
+    "61561264605347"
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61561264605347"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
