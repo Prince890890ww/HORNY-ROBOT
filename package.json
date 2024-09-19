@@ -1,14 +1,14 @@
 {
-    "name": "NAYAN-BOT",
+    "name": "HORNY-ROBOT",
     "version": "5.2.1",
     "description": "simple messenger bot",
     "main": "",
     "scripts": {
-        "start": "node --trace-warnings --use_strict --async-stack-traces Nayan/catalogs/Nayana.js",
+        "start": "node --trace-warnings --use_strict --async-stack-traces Horny/catalogs/Hornya.js",
         "login": "node login",
         "test": "node --trace-warnings --use_strict --async-stack-traces main"
     },
-    "author": "Nayan",
+    "author": "Horny",
     "license": "GPL-3.0",
     "dependencies": {
         "aes-js": "latest",
